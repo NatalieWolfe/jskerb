@@ -1,0 +1,19 @@
+{
+  "name": "jskerb",
+  "version": "0.0.0",
+  "authors": [
+    "Natalie Wolfe <natalie@lifewanted.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "keystate": "^1.0.0",
+    "pixi": "^3.0.0"
+  }
+}
