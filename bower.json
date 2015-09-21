@@ -14,6 +14,7 @@
   ],
   "dependencies": {
     "keystate": "^1.0.0",
+    "phaser": "~2.4.3",
     "pixi": "^3.0.0"
   }
 }
